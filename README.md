@@ -1,9 +1,9 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Rooshaan</h1>
+<h1 align="center">Hi 👋, I'm Rooshaan</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-- ðŸ’¬ Ask me about **Javascript**
+- 💬 Ask me about **Javascript**
 
-- ðŸ“« How to reach me **mirrooshaanrafi@gmail.com**
+- 📫 How to reach me **mirrooshaanrafi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
